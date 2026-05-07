@@ -99,7 +99,7 @@ This project was built to simulate a practical real-world hiring and shift manag
 
 ---
 
-## Project Structure
+<!-- ## Project Structure
 
 ```bash
 WorkerMarketPlace/
@@ -178,9 +178,9 @@ WorkerMarketPlace/
 │       └── vite.config.js
 │
 └── README.md
-```
+``` -->
 
----
+<!-- ---
 
 ## Application Flow
 
@@ -227,7 +227,7 @@ WorkerMarketPlace/
 - **Profile Page** → view and update profile
 - **Chat Pages** → conversations list and real-time chat view
 
----
+--- -->
 
 ## Setup Instructions
 
@@ -354,7 +354,7 @@ Before running the project, make sure:
 
 ---
 
-## Screenshots
+<!-- ## Screenshots
 
 You can add screenshots here later.
 
@@ -381,28 +381,7 @@ Suggested screenshots to add:
 - Profile page
 - Chat page
 
----
-
-## Future Improvements
-
-- Better UI polish and animations
-- Custom modal confirmations
-- Better form validations
-- Toast-based notifications
-- Real-time notification updates
-- Responsive improvements for smaller screens
-- Alembic migrations
-- Deployment
-- Better file naming cleanup for frontend utilities/components
-
----
-
-## Known Limitations
-
-- Some validation and UI polish can still be improved
-- Notifications currently work through normal API flow instead of live push
-- Some file names in frontend can be cleaned up for better structure
-- Deployment is not yet completed
+--- -->
 
 ---
 
