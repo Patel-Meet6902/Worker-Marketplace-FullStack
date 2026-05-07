@@ -1,5 +1,15 @@
 # Worker Marketplace
 
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Build-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/Realtime-WebSocket-orange?style=for-the-badge)
+![JWT](https://img.shields.io/badge/Auth-JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+
+## 📌 Overview
+
 Worker Marketplace is a full-stack web application built for managing shift-based work between two types of users: **clients** and **workers**.
 
 Clients can create shifts, manage applicants, approve or reject applications, and chat with workers. Workers can browse available shifts, apply, confirm or decline approved shifts, receive notifications, and communicate with clients through real-time chat.
