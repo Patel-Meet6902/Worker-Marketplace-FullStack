@@ -72,22 +72,30 @@ This project was built to simulate a practical real-world hiring and shift manag
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
-- React
-- Vite
-- React Router
-- Axios
-- Tailwind CSS
+
+| Technology | Purpose |
+|---|---|
+| React | Frontend UI |
+| Vite | Development/build tool |
+| React Router | Frontend routing |
+| Axios | API requests |
+| Tailwind CSS | Styling and responsive UI |
+| WebSocket API | Real-time chat connection |
 
 ### Backend
-- FastAPI
-- SQLAlchemy
-- PostgreSQL
-- JWT Authentication
-- Argon2 password hashing
-- WebSocket
+
+| Technology | Purpose |
+|---|---|
+| FastAPI | Backend API framework |
+| SQLAlchemy | ORM and database models |
+| PostgreSQL | Relational database |
+| JWT | Authentication |
+| Argon2 | Password hashing |
+| WebSocket | Real-time chat |
+| Pydantic | Request/response validation |
 
 ---
 
