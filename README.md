@@ -234,12 +234,9 @@ WorkerMarketPlace/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/worker-marketplace.git
+git clone https://github.com/Patel-Meet6902/Worker-Marketplace-FullStack.git
 cd worker-marketplace
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
-
 ---
 
 ## Backend Setup
